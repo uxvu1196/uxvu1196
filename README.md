@@ -1,6 +1,4 @@
 ### Hello it's me Uyen Vu a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by SuperCode until November 2021.
-<!--
-**uxvu1196/uxvu1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
