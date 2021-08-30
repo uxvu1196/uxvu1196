@@ -16,4 +16,4 @@ a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by S
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uxvx1196&repo=Projekt_Luftqualitaet)
 
-<--![counter](https://[YourEndpoint].m.pipedream.net)-->
+
