@@ -15,5 +15,5 @@ a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by S
 ![Github stats](https://github-readme-stats.vercel.app/api?username=uxvu1196)
 
 <h3>🔍 Where to find me</h3>
-href="https://github.com/uxvu1196" target=blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a><a
-
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uyen-vu-21716320b/)](https://www.linkedin.com/in/uyen-vu-21716320b/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
