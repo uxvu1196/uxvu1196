@@ -14,6 +14,6 @@ a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by S
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=uxvu1196)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uxvx1196&repo=Projekt_Luftqualitaet)
+
 
 
