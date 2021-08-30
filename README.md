@@ -1,4 +1,4 @@
-### Hello it's me Uyen Vu
+## Hello it's me Uyen Vu
 
 a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by SuperCode until November 2021.
 
