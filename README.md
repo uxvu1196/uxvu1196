@@ -16,7 +16,7 @@ a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by S
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=uxvu1196)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=uxvu1196&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 
 <details>
   <summary>More...</summary>
