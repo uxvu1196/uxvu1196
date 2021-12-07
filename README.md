@@ -1,6 +1,6 @@
 ## Hello it's me Uyen Vu
 
-a soon-to-be Web Developer attending the Fullstack Web Development Bootcamp by SuperCode until November 2021.
+Welcome to my profile. Since the end of November I have successfully completed my bootcamp as a fullstack developer and am now an alumni of Super(code) GmbH & Co. 
 
 <h2 align="center"> 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!</h2>
 
